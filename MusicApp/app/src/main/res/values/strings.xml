@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="activity_library">Library</string>
+    <string name="activity_now_playing">Now Playing</string>
+    <string name="activity_podcast">Podcast</string>
+    <string name="activity_whats_streaming">What\'s Streaming?</string>
+    <string name="now_playing_info">I hope you\'re enjoying what you are currently listening to. </string>
+    <string name="podcast_info">Find just about anything from comedy, to tutorials.</string>
+    <string name="whats_streaming_info">Listen to music being randomly live streamed.</string>
+    <string name="library_info">Browse through your favorite music collection.</string>
+</resources>

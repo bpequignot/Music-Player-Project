@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="example.android.musicapp.LibraryActivity">
+
+    <TextView
+        android:id="@+id/now_playing"
+        style="@style/CategoryStyle"
+        android:background="@color/categoryNowPlaying"
+        android:text="@string/activity_now_playing" />
+
+    <TextView
+        android:id="@+id/podcast"
+        style="@style/CategoryStyle"
+        android:background="@color/categoryPodcast"
+        android:text="@string/activity_podcast" />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/info"
+        android:layout_margin="10dp"
+        android:text="@string/library_info" />
+
+</LinearLayout>

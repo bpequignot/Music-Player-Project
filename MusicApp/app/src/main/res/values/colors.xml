@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#006064</color>
+    <color name="colorPrimary">#0097A7</color>
+    <color name="colorPrimaryDark">#00838F</color>
+    <color name="colorAccent">#00ACC1</color>
+    <color name="categoryNowPlaying">#00BCD4</color>
+    <color name="categoryLibrary">#26C6DA</color>
+    <color name="categoryPodcast">#4DD0E1</color>
+    <color name="categoryWhatsStreaming">#80DEEA</color>
+    <color name="info">#B2EBF2</color>
+</resources>
+
